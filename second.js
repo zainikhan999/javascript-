@@ -18,3 +18,5 @@ if (Student["age"]==90)
     console.log("age is 90");
 else
    console.log("age is not 90");
+for (let i in Student)
+    console.log(i);

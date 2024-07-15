@@ -25,9 +25,5 @@ console.log("This is the first javascript tutorial");
     let cond1= a>b;
     let cond2=a===90;
     console.log("cond1 && cond2 =", cond1 && cond2);
-    if (Student["age"]==90)
-        console.log("age is 90");
-    else
-       console.log("age is not 90");
-
+   
     
